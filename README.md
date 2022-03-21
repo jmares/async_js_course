@@ -17,3 +17,15 @@ The API used in the course doesn't exist anymore. The url `restcountries.eu` red
 
 I used the latter and limited the amount of countries by using `https://restcountries.com/v3.1/region/europe`.   
 
+## Part 2: Async vs Sync Explained
+
+Date: 21/03/2022
+
+Source: [Async JavaScript Part 2: Async vs Sync Explained by Ania Kubów](https://www.youtube.com/watch?v=wYRw8f-wrco&list=PLRD1Niz0lz1sdjsiBsYN6nT1aJQTWvF-a&index=2)
+
+### Part 3: Async Callbacks
+
+Date: 21/03/2022
+
+Source: [Async JavaScript Part 3: Async Callbacks  by Ania Kubów](https://www.youtube.com/watch?v=3SxxbyWUmVE&list=PLRD1Niz0lz1sdjsiBsYN6nT1aJQTWvF-a&index=3)
+
