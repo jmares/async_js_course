@@ -42,3 +42,11 @@ Source: [Async JavaScript Part 4: Promises by Ania Kubów](https://www.youtube.c
 Much better than the previous two parts. Replace `https://restcountries.eu/rest/v2/all` with `https://restcountries.com/v2/all` if you want to stick as close to the course as possible or use `https://restcountries.com/v3.1/all` if you want to use the latest version. See also part 1.
 
 A simple and good introduction to promises, but I wouldn't call it a deep dive.
+
+### Part 5: Async and Await
+
+Date: 22/03/2022
+
+Source: [Async JavaScript Part 5: Async and Await by Ania Kubów](https://www.youtube.com/watch?v=2MJnTmoAdwI&list=PLRD1Niz0lz1sdjsiBsYN6nT1aJQTWvF-a&index=5)
+
+As mentioned in part 1 and part 4, use `https://restcountries.com/v2/all` instead of `https://restcountries.eu/rest/v2/all`.
